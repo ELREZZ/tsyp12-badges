@@ -1,0 +1,5 @@
+=C3&" "&D3
+="C:\TSYP QRs\ISIMG QRs\"&MINUSCULE(C3&"_"&D3&"_"&A3&".png")
+
+=C2&" "&D2
+="C:\TSYP QRs\IIT QRs\"&MINUSCULE(C2&"_"&D2&"_"&A2&".png")
